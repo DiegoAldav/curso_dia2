@@ -2,4 +2,8 @@ archivo de ejemplo
 para el dia 2
 se realizaron acrividades con github
 y se repaso detalles de la clase pasada
+<<<<<<< HEAD
 modificacion local
+=======
+modificacion web
+>>>>>>> 351a56bdfdcaed276d04f482afdb82a128868fb8
