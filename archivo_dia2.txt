@@ -4,3 +4,4 @@ se realizaron acrividades con github
 y se repaso detalles de la clase pasada
 modificacion local
 modificacion web
+modificacion final local
