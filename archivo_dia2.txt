@@ -2,8 +2,3 @@ archivo de ejemplo
 para el dia 2
 se realizaron acrividades con github
 y se repaso detalles de la clase pasada
-modificacion desde la web
-modificacion local
-modificacion 2
-modificacio 3
-modificacion web
